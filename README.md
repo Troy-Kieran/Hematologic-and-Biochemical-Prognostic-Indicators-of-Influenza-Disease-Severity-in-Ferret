@@ -1,2 +1,10 @@
-# Hematologic-and-Biochemical-Prognostic-Indicators-of-Influenza-Disease-Severity-in-Ferret
-Barkes et al. (Submitted) - Scientific Reports
+# Overview
+Data and R code examining hematological and serum biochemistry in influenza infected ferrets.
+
+
+## Manuscript
+Barkes A, Kieran TJ, Daggett Jr G, Maines TR, Jean S, Pulit-Penaloza JA. (Submitted).
+Hematologic and biochemical prognostic markers associated with influenza disease severity in naive and preimmune ferret (Mustela putorius furo) models. Scientific Reports.
+
+### Abstract
+Ferrets (Mustela putorius furo) are widely used to evaluate influenza virus pathogenicity and pandemic risk, but hematologic and biochemical parameters are not routinely included in these assessments. In this study, we performed a comparative analysis of complete blood count and serum chemistry profiles in immunologically naïve and preimmune ferrets following intranasal inoculation with different influenza virus strains. Seasonal A(H1N1)pdm09 and A(H3N2) viruses and a less virulent A(H5N1) virus caused mild, nonfatal disease with limited or transient bloodwork changes in naïve ferrets. In contrast, naïve ferrets challenged with a highly virulent A(H5N1) virus showed virus detection beyond the upper respiratory tract, rapid disease progression accompanied by pronounced metabolic and biochemical disruption, necessitating humane euthanasia. Pre-existing immunity altered disease progression following challenge with this virus, with A(H1N1)pdm09-preimmune ferrets displaying reduced viral replication, less severe disease, and less pronounced biochemical disruption compared to A(H3N2)-preimmune ferrets. Overall, lymphopenia was common during acute infection in both ferret models; however, it did not distinguish nonfatal from fatal disease. Conversely, worsening biochemical changes, including hyperglycemia, increased alanine aminotransferase, total bilirubin, amylase, glucose, globulin, and electrolyte disturbances, were most evident in ferrets with severe A(H5N1) disease. These findings support the use of serial hematologic serum chemistry analyses as complementary endpoints for evaluating disease severity, immune-mediated protection, and humane endpoint decisions in naïve and preimmune ferret models.
